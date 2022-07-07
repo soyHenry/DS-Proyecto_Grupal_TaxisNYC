@@ -37,3 +37,7 @@ Borougs y sus LAT Y LONG<br>
 * Bronx, New York City, NY, USA (40.837048, -73.865433)
 * Queens, New York City, NY, USA (40.742054, -73.769417)
 * Staten Island, New York City, NY, USA (40.579021, -74.151535)
+
+
+API Weather
+https://api.openweathermap.org/data/2.5/onecall/timemachine?
